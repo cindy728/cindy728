@@ -16,7 +16,7 @@
 #### 1. [Photography][Projek Mr Mrs](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f)| Project Mr&Mrs UNPRI | Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
-#### 2. [Graphic Design](https://drive.google.com/drive/folders/1dVjdKKS2I1AI2oEjTWjapoJuIbIyYCLT) | Coffee & Cream | Medan `2024`
+#### 2. [Graphic Design][Coffee & Cream](https://drive.google.com/file/d/1Ly7X3qalTc6pTdRuce6i5-1OQZQcUWzX/view?usp=drive_link) | Coffee & Cream | Medan `2024`
    - Design Concept and Planning
    - Visual Creation and Graphic Elements
    - Brand Visual Identity Development
