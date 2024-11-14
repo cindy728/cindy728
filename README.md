@@ -1,4 +1,4 @@
-# Hi there, I'm Cindy
+# Hello there, I'm Cindy
 ## About me:
 - 🔭 I’m currentlya student at Universitas Prima Indonesia
 - 🌱 I’m currently learning Graphic Design
@@ -16,10 +16,12 @@
 #### 1. [Photography][Projek Mr Mrs](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f)| Project Mr&Mrs UNPRI | Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 2. [Graphic Design][https://portal.pln.co.id](https://drive.google.com/drive/folders/1dVjdKKS2I1AI2oEjTWjapoJuIbIyYCLT)) | Coffee & Cream | Medan `2024`
+   - Design Concept and Planning
+   - Visual Creation and Graphic Elements
+   - Brand Visual Identity Development
+   - Design for Digital Media
+   - Time and Project Management
 ---
 
 ### Skill and Tools:
