@@ -13,8 +13,7 @@
  #### 2. [SMA Buddhis Jayanti](https://dapo.kemdikbud.go.id/sekolah/1959D5AC26ABFAEA8D80) | MIPA | Rantauprapat `2020 - 2023`
 
 ## My Portofolio:
-#### 1. [Photography][Projek Mr Mrs](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f)
-) | Project Mr&Mrs UNPRI | Medan `Oct'2024
+#### 1. [Photography][Projek Mr Mrs](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f)| Project Mr&Mrs UNPRI | Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
 #### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
