@@ -1,22 +1,22 @@
-# Hi there, I'm Vincent - aka [vincentwidyan]
+# Hi there, I'm Cindy
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
+- 🔭 I’m currentlya student at Universitas Prima Indonesia
+- 🌱 I’m currently learning Graphic Design
+- 👯 I’m looking to collaborate as Interior Design
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: cindysunshine728@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Prima Indonessia](https://unprimdn.ac.id/) | Visual Comunication Design | Medan `2023 - 2027`
+#### 1. [Universitas Prima Indonessia](https://unprimdn.ac.id/) | Major of Visual Communication Design | Medan `2023 - 2027`
  #### 2. [SMA Buddhis Jayanti](https://dapo.kemdikbud.go.id/sekolah/1959D5AC26ABFAEA8D80) | MIPA | Rantauprapat `2020 - 2023`
 
 ## My Portofolio:
-#### 1. [Photography](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+#### 1. [Photography][Projek Mr Mrs](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f)
+) | Project Mr&Mrs UNPRI | Medan `Oct'2024
+   - Communication and Collaboration skills
+   - Capturing images
 #### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
