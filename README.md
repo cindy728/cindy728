@@ -16,6 +16,7 @@
 #### 1. [Photography]| [Project Mr&Mrs UNPRI](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f) | Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
+
      [Danau Toba](https://github.com/user-attachments/assets/5cd054ad-7f70-448d-bc9f-2c4d0447079c)
      &nbsp;&nbsp;
      [Pantai](https://github.com/user-attachments/assets/c8d8779e-0484-4270-846f-fc208af3ef6c)
