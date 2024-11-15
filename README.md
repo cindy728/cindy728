@@ -45,8 +45,8 @@
 ---
 ### Social Medias:
 
-[![website](./img/instagran-light.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
-[![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 
 [webdev]: https://github.com/cindy728/cindy728
