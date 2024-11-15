@@ -43,7 +43,7 @@
 <br />
 
 ---
-### Social Medias:
+### Social Media:
 
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only)
