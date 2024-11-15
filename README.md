@@ -37,7 +37,7 @@
 ---
 ### Social Medias:
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only)
+([<img align="left" alt="Instagram" width="40px" src="https://www.instagram.com/cin_cciinn/" style="padding-right:10px;" />][webdev][![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only))
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
