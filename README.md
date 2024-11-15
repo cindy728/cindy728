@@ -37,9 +37,8 @@
 ---
 ### Social Medias:
 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 [webdev]: https://github.com/cindy728/cindy728
