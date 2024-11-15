@@ -37,8 +37,8 @@
 ---
 ### Social Medias:
 
-[<img align="left" alt="Instagram" width="40px" src="https://www.instagram.com/cin_cciinn/" style="padding-right:10px;" />][webdev]
-[![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only))
+[<img align="left" alt="Instagram" width="40px" src="https://th.bing.com/th?id=OSK.5f70ba24c4eb58acf56e988e3c6563ee&w=80&h=80&r=0&o=6&cb=B&pid=1.2" style="padding-right:10px;" />][(https://www.instagram.com/cin_cciinn/#gh-light-mode-only)]
+[![website](./img/instagram-light.svg)](https://www.instagram.com/cin_cciinn/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
