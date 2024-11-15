@@ -16,6 +16,14 @@
 #### 1. [Photography]| [Project Mr&Mrs UNPRI](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f) | Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
+     ![Danau Toba](https://github.com/user-attachments/assets/5cd054ad-7f70-448d-bc9f-2c4d0447079c)
+     &nbsp;&nbsp;
+     ![Pantai](https://github.com/user-attachments/assets/c8d8779e-0484-4270-846f-fc208af3ef6c)
+     &nbsp;&nbsp;
+     ![Pohon](https://github.com/user-attachments/assets/b3a10ead-4bce-4f40-8400-f3a4ba2a9bb7)
+     &nbsp;&nbsp;
+
+
 #### 2. [Graphic Design] | [Coffee & Cream](https://drive.google.com/file/d/1Ly7X3qalTc6pTdRuce6i5-1OQZQcUWzX/view?usp=drive_link) | Medan `2024`
    - Design Concept and Planning
    - Visual Creation and Graphic Elements
@@ -37,7 +45,7 @@
 ---
 ### Social Medias:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+[![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 [![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
