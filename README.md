@@ -46,7 +46,7 @@
 ---
 ### Social Medias:
 
-[![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
+[![website](./img/instagran-light.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 [![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
