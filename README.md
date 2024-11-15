@@ -30,7 +30,6 @@
    - Visual Creation and Graphic Elements
    - Brand Visual Identity Development
    - Design for Digital Media
-   - Time and Project Management
 ---
 
 ### Skill and Tools:
@@ -49,6 +48,5 @@
 [![website](./img/instagran-light.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 [![website](./img/instagran-dark.svg)](https://www.instagram.com/cin_cciinn/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 [webdev]: https://github.com/cindy728/cindy728
